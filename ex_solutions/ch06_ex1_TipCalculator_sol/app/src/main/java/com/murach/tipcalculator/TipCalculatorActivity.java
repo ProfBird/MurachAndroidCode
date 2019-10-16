@@ -1,7 +1,9 @@
 package com.murach.tipcalculator;
 
-import java.text.NumberFormat;
-
+import android.app.Activity;
+import android.content.Context;
+import android.content.SharedPreferences;
+import android.content.SharedPreferences.Editor;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
@@ -20,10 +22,8 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
-import android.app.Activity;
-import android.content.Context;
-import android.content.SharedPreferences;
-import android.content.SharedPreferences.Editor;
+
+import java.text.NumberFormat;
 
 public class TipCalculatorActivity extends Activity {
 
@@ -106,7 +106,7 @@ public class TipCalculatorActivity extends Activity {
         editor.putFloat("tipPercent", tipPercent);
         editor.putInt("rounding", rounding);
         editor.putInt("split", split);
-        editor.commit();        
+        editor.apply();
 
         super.onPause();      
     }
@@ -137,7 +137,7 @@ public class TipCalculatorActivity extends Activity {
         else if (rounding == ROUND_TIP) {
             roundTipRadioButton.setChecked(true);
         }
-        else if (rounding == ROUND_TIP) {
+        else if (rounding == ROUND_TOTAL) {
             roundTotalRadioButton.setChecked(true);
         }
         
