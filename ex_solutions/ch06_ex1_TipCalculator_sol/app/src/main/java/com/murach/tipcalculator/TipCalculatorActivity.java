@@ -148,7 +148,7 @@ public class TipCalculatorActivity extends Activity {
         splitSpinner.setSelection(position);
     }
     
-    public void calculateAndDisplay() {
+    private void calculateAndDisplay() {
         // get the bill amount
         billAmountString = billAmountEditText.getText().toString();
         float billAmount; 
@@ -205,7 +205,7 @@ public class TipCalculatorActivity extends Activity {
     //*****************************************************
     // Event handler for the EditText
     //*****************************************************
-    private OnEditorActionListener editTextListener = new OnEditorActionListener() {
+    private final OnEditorActionListener editTextListener = new OnEditorActionListener() {
         
         @Override
         public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
@@ -220,7 +220,7 @@ public class TipCalculatorActivity extends Activity {
     //*****************************************************
     // Event handler for the SeekBar
     //*****************************************************
-    private OnSeekBarChangeListener seekBarListener = new OnSeekBarChangeListener() {
+    private final OnSeekBarChangeListener seekBarListener = new OnSeekBarChangeListener() {
         
         @Override
         public void onStartTrackingTouch(SeekBar seekBar) {
@@ -230,7 +230,7 @@ public class TipCalculatorActivity extends Activity {
         @Override
         public void onProgressChanged(SeekBar seekBar, int progress,
                 boolean fromUser) {
-            percentTextView.setText(progress + "%");
+            percentTextView.setText(progress + getString(R.string.percent_symbol));
         }
 
         @Override
@@ -242,7 +242,7 @@ public class TipCalculatorActivity extends Activity {
     //*****************************************************
     // Event handler for the RadioGroup
     //*****************************************************
-    private OnCheckedChangeListener radioGroupListener = new OnCheckedChangeListener() {
+    private final OnCheckedChangeListener radioGroupListener = new OnCheckedChangeListener() {
         
         @Override
         public void onCheckedChanged(RadioGroup group, int checkedId) {
@@ -264,7 +264,7 @@ public class TipCalculatorActivity extends Activity {
     //*****************************************************
     // Event handler for the Spinner
     //*****************************************************
-    private OnItemSelectedListener spinnerListener = new OnItemSelectedListener() {
+    private final OnItemSelectedListener spinnerListener = new OnItemSelectedListener() {
 
         @Override
         public void onItemSelected(AdapterView<?> parent, View v, int position,
@@ -282,7 +282,7 @@ public class TipCalculatorActivity extends Activity {
     //*****************************************************
     // Event handler for the keyboard and DPad
     //*****************************************************
-    private OnKeyListener keyListener = new OnKeyListener() {
+    private final OnKeyListener keyListener = new OnKeyListener() {
 
         @Override
         public boolean onKey(View view, int keyCode, KeyEvent event) {
