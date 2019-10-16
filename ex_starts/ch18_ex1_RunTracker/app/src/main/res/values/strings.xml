@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Run Tracker</string>
+    
+    <string name="separator_main">:</string>
+    <string name="separator_tenths">.</string>
+    <string name="zero_value_1">0</string>
+    <string name="zero_value_2">00</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="map">View Map</string>
+    <string name="content_text">Select to start!</string>
+    
+    <string name="stopwatch">View Stopwatch</string>
+</resources>

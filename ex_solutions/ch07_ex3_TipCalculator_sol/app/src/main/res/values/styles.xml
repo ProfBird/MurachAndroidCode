@@ -1,0 +1,49 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Theme customizations NOT specific to a particular API -->
+        
+        <!-- Set new styles for the theme text appearance -->
+        <item name="android:textAppearanceSmall">
+                     @style/TextAppearanceSmall</item>
+        <item name="android:textAppearanceSmallInverse">
+                     @style/TextAppearanceSmallInverse</item>
+        <item name="android:textAppearanceMedium">
+                     @style/TextAppearanceMedium</item>
+        <item name="android:textAppearanceMediumInverse">
+                     @style/TextAppearanceMediumInverse</item>
+        <item name="android:textAppearance">
+                     @style/TextAppearance</item>
+    </style>
+    
+    <!-- These styles are applied automatically -->
+    <style name="TextAppearanceSmall" 
+           parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearanceSmallInverse" 
+           parent="@android:style/TextAppearance.Small.Inverse">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearanceMedium" 
+           parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearanceMediumInverse" 
+           parent="@android:style/TextAppearance.Medium.Inverse">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearance" 
+           parent="@android:style/TextAppearance">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <!-- This style is needed, so the TextView.Label style can be created -->
+    <style name="TextView" parent="@android:style/Widget.TextView" />  
+    
+    <!-- This style needs to be applied manually -->
+    <style name="TextView.Label">  
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">10dp</item>
+    </style>
+</resources>

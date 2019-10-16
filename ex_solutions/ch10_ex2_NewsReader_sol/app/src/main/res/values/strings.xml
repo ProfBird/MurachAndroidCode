@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">News Reader</string>
+    <string name="loading">Loading RSS Feed..</string>
+    <string name="items_title">CNN.com Technology</string>
+    <string name="item_pub_date">Published: Fri 07 Sept 2012</string>
+    <string name="item_title">Item title</string>
+    <string name="item_description">Item description</string>
+    <string name="item_link">Read more on the web</string>
+    
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

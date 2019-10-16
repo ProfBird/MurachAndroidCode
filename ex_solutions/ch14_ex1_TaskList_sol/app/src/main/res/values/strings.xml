@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Task List</string>
+    
+    <!-- task list screen -->
+    <string name="task_name">Name</string>
+    <string name="task_notes">Notes</string>
+    <string name="text">Text</string>
+    
+</resources>

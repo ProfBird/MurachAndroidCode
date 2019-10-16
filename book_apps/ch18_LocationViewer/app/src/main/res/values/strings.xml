@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Location Viewer</string>
+    <string name="title_activity_location_viewer">Map</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Task List</string>
+    
+    <!-- task list screen -->
+    <string name="task_name">Task</string>
+    <string name="task_notes">Notes</string>
+    
+    <!-- add/edit screen -->
+    <string name="task_name_hint">Task</string>
+    <string name="task_notes_hint">Notes</string>
+    <string name="completed">Completed</string>
+    
+    <!-- menu items -->
+    <string name="add_task">Add Task</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- task list app widget -->
+    <string name="sample_task">Retrieving task. . .</string>
+    <string name="appwidget_top3_label">Task List (4 x 1)</string>
+</resources>

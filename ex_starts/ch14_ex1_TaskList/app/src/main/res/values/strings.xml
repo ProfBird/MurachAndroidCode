@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Task List</string>
+    
+    <string-array name="list_names">
+        <item >Personal</item>
+        <item >Business</item>
+    </string-array>
+    
+    <!-- task list screen -->
+    <string name="task_name">Name</string>
+    <string name="task_notes">Notes</string>
+
+</resources>

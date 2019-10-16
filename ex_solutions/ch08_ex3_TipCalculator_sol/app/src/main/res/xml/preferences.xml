@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory 
+        android:title="@string/percent_category_title"
+        android:key="pref_percent_category">
+        <CheckBoxPreference
+            android:key="pref_forget_percent"
+            android:title="@string/forget_percent_title"
+            android:summary="@string/forget_percent_summary"
+            android:defaultValue="false" />
+        <ListPreference
+            android:key="pref_default_percent"
+            android:title="@string/default_percent_title"
+            android:summary="@string/default_percent_summary"
+            android:dependency="pref_forget_percent"        
+            android:dialogTitle="@string/default_percent_title"
+            android:entries="@array/default_percent_keys"
+            android:entryValues="@array/default_percent_values"
+            android:defaultValue="@string/default_percent_default" />
+    </PreferenceCategory>    
+    <PreferenceCategory 
+        android:title="@string/rounding_category_title"
+        android:key="pref_rounding_category">
+        <ListPreference
+            android:key="pref_rounding"
+            android:title="@string/rounding_title"
+            android:summary="@string/rounding_summary"
+            android:dialogTitle="@string/rounding_title"
+            android:entries="@array/rounding_keys"
+            android:entryValues="@array/rounding_values"
+            android:defaultValue="@string/rounding_default" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,33 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Theme customizations NOT specific to a particular API -->
+        
+        <!-- Set new styles for three widgets in the theme -->
+        <item name="android:textViewStyle">@style/TextView</item>
+        <item name="android:editTextStyle">@style/EditText</item>
+        <item name="android:buttonStyle">@style/Button</item>
+    </style>
+    
+    
+    <!-- These styles are applied automatically -->
+    <style name="TextView" 
+           parent="@android:style/Widget.TextView">
+        <item name="android:textSize">20sp</item>
+    </style>
+    
+    <style name="EditText" parent="@android:style/Widget.EditText">
+        <item name="android:textSize">20sp</item>
+    </style>
+    
+    <style name="Button" parent="@android:style/Widget.Button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <!-- This style needs to be applied manually -->
+    <style name="TextView.Label">  
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">10dp</item>
+    </style>
+</resources>

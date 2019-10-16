@@ -1,0 +1,30 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- The theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar" />
+
+    <!-- Five custom styles -->
+    <style name="TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    
+    <style name="EditText" parent="@style/TextView" />
+    
+    <style name="Button" parent="@style/TextView">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+    </style>
+    
+    <style name="TextView.Label">
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    
+    <style name="TextView.Label.Indent">
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+    
+</resources>

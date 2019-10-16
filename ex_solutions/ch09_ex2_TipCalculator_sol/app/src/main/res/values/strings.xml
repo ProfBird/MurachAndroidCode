@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="title_activity_tip_calculator">Tip Calculator</string>
+    
+    <string name="bill_amount_label">Bill Amount</string>
+    <string name="bill_amount"></string>
+    
+    <string name="tip_percent_label">Percent</string>
+    <string name="tip_percent">15%</string>
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+    
+    <string name="tip_amount_label">Tip</string>
+    <string name="tip_amount">$0.00</string>
+    
+    <string name="total_amount_label">Total</string>
+    <string name="total_amount">$0.00</string>
+    
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    
+    <string name="title_activity_settings">Settings</string>
+    
+    <string name="remember_percent_title">Remember Tip Percent</string>
+    <string name="remember_percent_summary">Remembers the tip percent for the most recent calculation.</string>
+    
+    <string name="rounding_title">Rounding?</string>
+    <string name="rounding_summary">Sets the rounding option for the calculation.</string>
+    <string-array name="rounding_keys">
+        <item >None</item>
+        <item >Tip</item>
+        <item >Total</item>
+    </string-array>
+    <string-array name="rounding_values">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+    <string name="rounding_default">0</string>
+    
+    <string name="title_activity_about">About</string>
+    <string name="about">This version of the Tip Calculator app calculates all tips on the post-tax total for the bill.</string>
+</resources>

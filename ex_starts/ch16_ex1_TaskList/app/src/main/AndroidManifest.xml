@@ -1,0 +1,42 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.murach.tasklist"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.murach.tasklist.TaskListActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.murach.tasklist.AddEditActivity" >
+        </activity>
+
+        <provider
+            android:name="com.murach.tasklist.TaskListProvider"
+            android:authorities="com.murach.tasklist.provider"
+            android:exported="true" >
+        </provider>
+
+        <receiver
+            android:name="com.murach.tasklist.AppWidgetTop3"
+            android:label="@string/appwidget_top3_label" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.murach.tasklist.TASK_MODIFIED" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/app_widget_top3_info" />
+        </receiver>
+    </application>
+
+</manifest>

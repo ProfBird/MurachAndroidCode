@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/format_name"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/labelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/nameTextView"
+        android:layout_alignBottom="@+id/nameTextView"
+        android:layout_centerHorizontal="true"
+        android:text="@string/format_phone_type" />
+
+    <TextView
+        android:id="@+id/numberTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/labelTextView"
+        android:layout_alignBottom="@+id/labelTextView"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:text="@string/format_phone_number" />
+
+</RelativeLayout>

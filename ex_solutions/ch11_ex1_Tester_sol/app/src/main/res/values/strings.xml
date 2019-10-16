@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tester</string>
+    <string name="hello_world">
+        1. Add the service described in exercise 11-1.\n\n
+        2. Run this project.\n\n
+        3. Check the LogCat view for messages from the service.</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

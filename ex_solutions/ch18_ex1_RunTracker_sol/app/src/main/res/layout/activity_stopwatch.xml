@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" >
+
+        <TextView
+            android:id="@+id/textViewHoursValue"
+            style="@style/Digit"
+            android:text="@string/zero_value_1" />
+
+        <TextView
+            android:id="@+id/textViewSeparator1"
+            style="@style/Separator"
+            android:text="@string/separator_main" />
+
+        <TextView
+            android:id="@+id/textViewMinsValue"
+            style="@style/Digit"
+            android:text="@string/zero_value_2" />
+
+        <TextView
+            android:id="@+id/textViewSeparator2"
+            style="@style/Separator"
+            android:text="@string/separator_main" />
+
+        <TextView
+            android:id="@+id/textViewSecsValue"
+            style="@style/Digit"
+            android:text="@string/zero_value_2" />
+
+        <TextView
+            android:id="@+id/textViewSeparator3"
+            style="@style/Separator"
+            android:text="@string/separator_tenths" />
+
+        <TextView
+            android:id="@+id/textViewTenthsValue"
+            style="@style/Digit"
+            android:text="@string/zero_value_1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+        <Button
+            android:id="@+id/buttonReset"
+            style="@style/Button"
+            android:text="@string/reset" />
+
+        <Button
+            android:id="@+id/buttonStartStop"
+            style="@style/Button"
+            android:text="@string/start" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+        <Button
+            android:id="@+id/buttonViewMap"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/map" />
+    </LinearLayout>
+    
+</LinearLayout>
