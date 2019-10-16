@@ -2,38 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dcaf67c-cf7c-4538-8b0f-a4059c569782" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch04_ex1_TipCalculator_sol/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex1_TipCalculator_sol/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch05_ex2_TipCalculator_sol/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch03_TipCalculator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch03_TipCalculator/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch05_MurachBooks/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch05_MurachBooks/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch06_TipCalculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex1_TipCalculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06_ex2_TipCalculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <ignored path="ch05_ex2_TipCalculator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +42,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_19_Google_APIs" />
   <component name="ExternalProjectsManager">
@@ -84,7 +78,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,9 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -120,14 +112,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ch06_ex1_TipCalculator" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -308,21 +301,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="23" y="23" width="1167" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="Resources Explorer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24843049" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Palette&#9;" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Android Profiler" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32920355" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -337,11 +325,10 @@
       <window_info anchor="bottom" id="Gradle Console" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Flutter Inspector" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Flutter Outline" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Android Profiler" order="14" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Build" order="15" visible="true" weight="0.34690267" />
+      <window_info anchor="bottom" id="Logcat" order="16" />
+      <window_info anchor="bottom" id="Flutter Performance" order="17" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -349,7 +336,17 @@
       <window_info anchor="right" id="Gradle" order="4" />
       <window_info anchor="right" id="Android Model" order="5" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Flutter Outline" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Device File Explorer" order="10" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../.." />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
