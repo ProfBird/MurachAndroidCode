@@ -8,6 +8,7 @@
 
     <TextView
         android:id="@+id/billAmountLabel"
+        android:labelFor="@id/billAmountEditText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="10dp"
@@ -20,13 +21,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/billAmountLabel"
-        android:layout_marginLeft="5dp"
-        android:layout_toRightOf="@+id/billAmountLabel"
+        android:layout_marginStart="5dp"
+        android:layout_toEndOf="@+id/billAmountLabel"
         android:ems="8"
         android:inputType="numberDecimal"
         android:text="@string/bill_amount"
         android:textSize="20sp" >
-
         <requestFocus />
     </EditText>
 
@@ -36,7 +36,7 @@
         android:id="@+id/percentLabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/billAmountLabel"
+        android:layout_alignStart="@+id/billAmountLabel"
         android:layout_below="@+id/billAmountLabel"
         android:padding="10dp"
         android:text="@string/tip_percent_label"
@@ -48,7 +48,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/percentLabel"
-        android:layout_alignLeft="@+id/billAmountEditText"
+        android:layout_alignStart="@+id/billAmountEditText"
         android:padding="5dp"
         android:text="@string/tip_percent"
         android:textSize="20sp" />
@@ -58,8 +58,8 @@
         android:layout_width="45dp"
         android:layout_height="45dp"
         android:layout_alignBaseline="@+id/percentTextView"
-        android:layout_marginLeft="25dp"
-        android:layout_toRightOf="@+id/percentTextView"
+        android:layout_marginStart="25dp"
+        android:layout_toEndOf="@+id/percentTextView"
         android:text="@string/decrease"
         android:textSize="20sp" />
 
@@ -68,7 +68,7 @@
         android:layout_width="45dp"
         android:layout_height="45dp"
         android:layout_alignBaseline="@+id/percentDownButton"
-        android:layout_toRightOf="@+id/percentDownButton"
+        android:layout_toEndOf="@+id/percentDownButton"
         android:text="@string/increase"
         android:textSize="20sp" />
 
@@ -78,7 +78,7 @@
         android:id="@+id/tipLabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/percentLabel"
+        android:layout_alignStart="@+id/percentLabel"
         android:layout_below="@+id/percentLabel"
         android:padding="10dp"
         android:text="@string/tip_amount_label"
@@ -90,7 +90,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/tipLabel"
-        android:layout_alignLeft="@id/billAmountEditText"
+        android:layout_alignStart="@id/billAmountEditText"
         android:padding="5dp"
         android:text="@string/tip_amount"
         android:textSize="20sp" />
@@ -101,7 +101,7 @@
         android:id="@+id/totalLabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/tipLabel"
+        android:layout_alignStart="@+id/tipLabel"
         android:layout_below="@+id/tipLabel"
         android:padding="10dp"
         android:text="@string/total_amount_label"
@@ -113,7 +113,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/totalLabel"
-        android:layout_alignLeft="@+id/tipTextView"
+        android:layout_alignStart="@+id/tipTextView"
         android:padding="5dp"
         android:text="@string/total_amount"
         android:textSize="20sp" />    

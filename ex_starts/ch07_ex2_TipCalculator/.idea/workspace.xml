@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="456bbc9f-6352-4249-94ae-c5869c83649a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/.idea/caches/gradle_models.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../book_apps/ch08_TipCalculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch08_ex1_TipCalculator_sol/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <ignored path="ch07_ex2_TipCalculator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +31,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -53,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -79,7 +66,7 @@
     <option name="x" value="23" />
     <option name="y" value="23" />
     <option name="width" value="1167" />
-    <option name="height" value="833" />
+    <option name="height" value="737" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -87,6 +74,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -98,9 +88,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,10 +277,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="23" width="1167" height="833" extended-state="0" />
+    <frame x="23" y="23" width="1167" height="737" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24843049" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24843049" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -316,8 +303,8 @@
       <window_info anchor="bottom" id="Gradle Console" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info anchor="bottom" id="Android Profiler" order="14" />
-      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32963988" />
+      <window_info anchor="bottom" id="Android Profiler" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.3290735" />
       <window_info anchor="bottom" id="Logcat" order="16" />
       <window_info anchor="bottom" id="Flutter Performance" order="17" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -335,17 +322,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
