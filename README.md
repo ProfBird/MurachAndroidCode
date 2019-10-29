@@ -5,9 +5,9 @@ This code was downloaded from the publisher's web site, [Murach Books](https://w
 
 These are the apps that have been updated so far:
 - Book Apps
-  - Ch. 3 through 8
+  - Ch. 3 through 9
 - Exercise Starts
-  - Ch. 3 through 8
+  - Ch. 3 through 9
 - Exercise Solutions
-  - Ch. 2 through 8
+  - Ch. 2 through 9
   
