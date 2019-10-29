@@ -1,7 +1,8 @@
 package com.murach.tipcalculator;
 
-import java.text.NumberFormat;
-
+import android.app.Activity;
+import android.content.SharedPreferences;
+import android.content.SharedPreferences.Editor;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
@@ -11,9 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
-import android.app.Activity;
-import android.content.SharedPreferences;
-import android.content.SharedPreferences.Editor;
+
+import java.text.NumberFormat;
 
 public class TipCalculatorActivity extends Activity 
 implements OnEditorActionListener, OnClickListener {
@@ -78,7 +78,9 @@ implements OnEditorActionListener, OnClickListener {
         billAmountEditText.setText(billAmountString);
         
         // calculate and display
-        calculateAndDisplay();
+        if (!billAmountString.equals("")) {
+            calculateAndDisplay();
+        }
     }    
     
     public void calculateAndDisplay() {        
