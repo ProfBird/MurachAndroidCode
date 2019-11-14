@@ -5,9 +5,11 @@ This code was downloaded from the publisher's web site, [Murach Books](https://w
 
 These are the apps that have been updated so far:
 - Book Apps
-  - Ch. 3 through 9
+  - Ch. 3 through 10
 - Exercise Starts
-  - Ch. 3 through 9
+  - Ch. 3 through 10
 - Exercise Solutions
-  - Ch. 2 through 9
+  - Ch. 2 through 10
+  
+Note: fixed a bug in the Ch. 10 newsreader caused by the XML no longer containing a publication date for items, only for the feed.
   
