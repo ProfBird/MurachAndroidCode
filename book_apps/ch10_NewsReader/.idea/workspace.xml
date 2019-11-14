@@ -5,18 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55aec57a-e0cd-492b-b1e2-11b4b760b1b4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09_TipCalculator/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../ch09_TipCalculator/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09_TipCalculator/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../ch09_TipCalculator/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09_TipCalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch09_TipCalculator/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09_TipCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch09_TipCalculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/app/src/main/java/com/murach/newsreader/RSSFeedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/app/src/main/java/com/murach/newsreader/RSSFeedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex2_NewsReader_sol/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/app/src/main/java/com/murach/newsreader/RSSFeedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/app/src/main/java/com/murach/newsreader/RSSFeedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_solutions/ch10_ex3_NewsReader_sol/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex1_NewsReader/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex1_NewsReader/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex1_NewsReader/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex1_NewsReader/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex1_NewsReader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex1_NewsReader/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/app/src/main/java/com/murach/newsreader/RSSFeedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/app/src/main/java/com/murach/newsreader/RSSFeedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex_starts/ch10_ex2_NewsReader/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <ignored path="ch10_NewsReader.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +48,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Android_Accelerated_Oreo" />
   <component name="ExternalProjectsManager">
@@ -49,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+            <state relative-caret-position="210">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -58,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
+            <state relative-caret-position="45">
               <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
@@ -85,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/murach/newsreader/RSSFeedHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+            <state relative-caret-position="88">
+              <caret line="58" selection-start-line="58" selection-end-line="59" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -124,10 +141,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="734" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1171" />
+    <option name="y" value="157" />
+    <option name="width" value="1221" />
+    <option name="height" value="1220" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -135,8 +153,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
@@ -370,10 +388,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1345" extended-state="6" />
+    <frame x="1171" y="157" width="1221" height="1220" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09968229" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2120441" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -397,7 +415,7 @@
       <window_info anchor="bottom" id="Application Servers" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Android Profiler" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32402235" />
+      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.35283688" />
       <window_info anchor="bottom" id="Logcat" order="16" weight="0.32991204" />
       <window_info anchor="bottom" id="Flutter Performance" order="17" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -517,22 +535,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/murach/newsreader/RSSFeedHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        <state relative-caret-position="88">
+          <caret line="58" selection-start-line="58" selection-end-line="59" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
+        <state relative-caret-position="45">
           <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        <state relative-caret-position="210">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>

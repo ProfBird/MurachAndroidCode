@@ -53,6 +53,8 @@ public class RSSFeedHandler extends DefaultHandler {
             String qName) throws SAXException
     {
         if (qName.equals("item")) {
+            // TODO:This is a band-aid, need to refactor the way date is processed
+            item.setPubDate(feed.getPubDate());
             feed.addItem(item);
             return;
         }
